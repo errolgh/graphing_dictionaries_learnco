@@ -32,3 +32,8 @@ for word in list_of_lyrics:
 
 # looped histogram values
 print "word histogram:", word_histogram
+
+#to call a word from the histogram
+print "Rockin':", word_histogram["Rockin'"]
+
+#
